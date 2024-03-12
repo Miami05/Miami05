@@ -10,6 +10,7 @@ I love coding.
 * ✉️  You can contact me at [ledodurmishaj02@gmail.com](mailto:ledodurmishaj02@gmail.com)
 * 🧠  I'm learning C
 * 🤝  I'm open to collaborating on Back-End Projects
+* ⚡  I love sleep
 
 ### Skills
 
