@@ -7,7 +7,7 @@ Software Developer
 I love coding.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [ledodurmishaj16@gmail.com](mailto:ledodurmishaj02@gmail.com)
+* ✉️  You can contact me at [lediodurmishaj16@gmail.com](mailto:ledodurmishaj02@gmail.com)
 * 🧠  I'm learning C
 * 🤝  I'm open to collaborating on Back-End Projects
 * ⚡  I love sleep
