@@ -1,6 +1,25 @@
-<h2 align="left">Hi 👋! My name is Ledio and I'm a Software Engineer | Cloud Engineer | Full Stack Developer</h2>
+<h1 align="center">Hi 👋, I'm Ledio</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miami05&label=Profile%20views&color=0e75b6&style=flat" alt="miami05" /> </p>
+
+
+- 🌱 I’m currently learning **Python, JS**
+
+- 👯 I’m looking to collaborate on **Devops, Full Stack**
+
+- 💬 Ask me about **C/C++**
+
+- 📫 How to reach me **lediodurmishaj16@gmail.com**
+
+- ⚡ Fun fact **I love to sleep.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ledio-durmishaj-4586ab308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ledio-durmishaj-4586ab308" height="30" width="40" /></a>
+</p>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -43,8 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -55,6 +72,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
+
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miami05&show_icons=true&locale=en&layout=compact" alt="miami05" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miami05&show_icons=true&locale=en" alt="miami05" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miami05&" alt="miami05" /></p>
 
 ###
 
