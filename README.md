@@ -10,9 +10,9 @@ I strive to build robust applications that solve real problems, whether that's o
 
 ## 🚀 What I'm Currently Doing
 
-- 🔭 Working on **DevOps automation** and **full-stack web applications**
-- 🌱 Learning **Python, JavaScript/TypeScript**, and modern web frameworks
-- 👯 Open to collaborating on **DevOps projects** and **full-stack applications**
+- 🔭 Working on **AI Engineering**, **Machine Learning Engineer** and **full-stack web applications**
+- 🌱 Learning **Python, JavaScript/NodeJS**, and modern web frameworks
+- 👯 Open to collaborating on **AI Engineer**, **Back End** and **full-stack applications**
 - 💬 Ask me about **C/C++**, **systems programming**, and **algorithm optimization**
 - 🛠️ Optimizing my **Neovim** development environment
 
@@ -20,11 +20,11 @@ I strive to build robust applications that solve real problems, whether that's o
 
 ## 💼 Skills & Technologies
 
-**Core Languages:** C, C++, Python, JavaScript/TypeScript, Bash, Lua
+**Core Languages:** C, C++, Python, JavaScript/NodeJS, Bash, Lua
 
-**Web Technologies:** HTML5, CSS3, React, TailwindCSS, Flask
+**Web Technologies:** HTML5, CSS3, TailwindCSS, Flask
 
-**DevOps & Cloud:** Docker, Kubernetes, Terraform, AWS, Linux
+**DevOps & Cloud:** Docker, Linux
 
 **Tools & Development:** Neovim, Git, CMake, GCC, SQLite
 
