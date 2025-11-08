@@ -1,87 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ledio</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+# Hi, I'm Ledio 👋
 
+**Software Engineer | C/C++ Expert | Full Stack Developer**
 
+I'm a software engineer with a strong foundation in **systems programming** and **C/C++**, currently expanding into full-stack development and DevOps. I believe in writing efficient, maintainable code and understanding how things work at a fundamental level.
 
-- 🌱 I’m currently learning **Python, JS**
+I strive to build robust applications that solve real problems, whether that's optimizing algorithms, designing scalable systems, or creating responsive user interfaces. I'm passionate about continuous learning and love exploring new technologies while mastering the fundamentals that matter.
 
-- 👯 I’m looking to collaborate on **Devops, Full Stack**
+---
 
-- 💬 Ask me about **C/C++**
+## 🚀 What I'm Currently Doing
 
-- 📫 How to reach me **lediodurmishaj16@gmail.com**
+- 🔭 Working on **DevOps automation** and **full-stack web applications**
+- 🌱 Learning **Python, JavaScript/TypeScript**, and modern web frameworks
+- 👯 Open to collaborating on **DevOps projects** and **full-stack applications**
+- 💬 Ask me about **C/C++**, **systems programming**, and **algorithm optimization**
+- 🛠️ Optimizing my **Neovim** development environment
 
-- ⚡ Fun fact **I love to sleep.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ledio-durmishaj-4586ab308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ledio-durmishaj-4586ab308" height="30" width="40" /></a>
-</p>
+## 💼 Skills & Technologies
 
+**Core Languages:** C, C++, Python, JavaScript/TypeScript, Bash, Lua
 
+**Web Technologies:** HTML5, CSS3, React, TailwindCSS, Flask
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-</div>
+**DevOps & Cloud:** Docker, Kubernetes, Terraform, AWS, Linux
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miami05&show_icons=true&locale=en&layout=compact" alt="miami05" /></p>
+**Tools & Development:** Neovim, Git, CMake, GCC, SQLite
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miami05&show_icons=true&locale=en" alt="miami05" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miami05&" alt="miami05" /></p>
+## 📝 Featured Projects
 
-###
+### [Minitalk](https://github.com/Miami05/Minitalk)
+A Unix data exchange program using UNIX signals for client-server communication. This project deepened my understanding of low-level inter-process communication, signal handling, and robust error management in C.
 
-<img src="https://miami05.github.io/Miami05/snake.svg" alt="Snake animation" />
+**Tech:** C, Unix Signals, IPC
 
+### [Push_swap](https://github.com/Miami05/Push_swap)
+An algorithm optimization challenge that taught me to think critically about efficiency. The goal: sort data with the fewest possible operations using only a limited set of stack manipulations. A deep dive into sorting algorithms and optimization techniques.
 
-###
+**Tech:** C, Algorithm Design, Optimization
+
+### [Pipex](https://github.com/Miami05/Pipex)
+Recreation of shell pipe functionality to master Unix pipes and process management. Working with file descriptors, fork/exec operations, and understanding how the shell connects programs together.
+
+**Tech:** C, Unix Pipes, Process Management
+
+### [So-Long](https://github.com/Miami05/So-Long)
+A 2D game built with the MLX graphics library. This project introduced me to sprite manipulation, game loops, and the fundamentals of interactive application development.
+
+**Tech:** C, MLX Graphics, Game Development
+
+### [My Neovim Config](https://github.com/Miami05/My-Neovim-Config)
+A personalized Neovim setup optimized for efficient development. Custom keybindings, plugin management, and configuration designed to minimize distractions and maximize productivity.
+
+**Tech:** Lua, Neovim
+
+---
+
+## 🔗 Connect With Me
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+- 📧 **Email:** [lediodurmishaj16@gmail.com](mailto:lediodurmishaj16@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ledio-durmishaj-4586ab308](https://www.linkedin.com/in/ledio-durmishaj-4586ab308)
+- 🌐 **Portfolio:** [miami05.github.io](https://miami05.github.io) *(coming soon)*
+- 💻 **GitHub:** [@Miami05](https://github.com/miami05)
+
+---
+
+*"First, solve the problem. Then, write the code." - John Johnson*
