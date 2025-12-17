@@ -4,7 +4,19 @@
 
 ---
 
-## 🎯 What I Build
+## 🎯 About Me
+
+Software engineer specializing in **AI systems**, **high-performance backends**, and **scalable infrastructure**. I combine low-level systems optimization (C/C++) with modern AI architectures (LLMs, RAG) to build production-grade intelligent solutions.
+Currently advancing through **42 Wolfsburg** (systems programming bootcamp) and **MasterSchool AI Engineering** program. Transitioning from traditional software engineering to AI-focused roles while maintaining deep systems fundamentals.
+
+## 🚀 Currently Building
+
+- **Travel Optimization System** ✈️: Multi-country routing with AI + Neo4j (in development)  
+- **Code Intelligence Platform** 💻: GitHub repo analyzer with semantic search + interactive knowledge graphs (MVP)
+- **Simplified Knowledge Graph** 📊: Interactive visualization of code dependencies and function relationships (MVP)
+
+
+## 🏆 What I Build
 
 I engineer **production-grade AI systems and high-performance backend solutions** that solve real-world problems. My work spans:
 
@@ -19,10 +31,10 @@ Currently: **42 Wolfsburg** (Software Engineering bootcamp) + **MasterSchool AI 
 ## 💻 Technical Skills
 
 **Languages**: Python, C/C++, JavaScript/TypeScript, Go, Bash, SQL  
-**AI/ML**: LLM Integration, RAG, Prompt Engineering, OpenAI/Gemini/Claude APIs, NLP  
-**Frameworks**: FastAPI, Flask, Fastify, Docker  
-**Databases**: PostgreSQL, Neo4j (Graph DB), SQLite  
-**Systems**: Linux/Unix, Git, Neovim, CI/CD, Memory Management & Pointers  
+**AI/ML**: LLM Integration, RAG, Prompt Engineering, NLP, OpenAI/Gemini/Claude APIs  
+**Web/Backend**: FastAPI, Flask, Fastify, Docker, REST APIs  
+**Databases**: PostgreSQL, Neo4j, SQLite  
+**Systems**: Linux/Unix, Git, CI/CD, Memory Management & Pointers  
 **Core**: Data Structures, Algorithms, Multithreading, REST APIs, SOLID Principles
 
 ---
