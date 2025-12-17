@@ -1,45 +1,42 @@
-# Hi, I'm Ledio 👋
+# 👋 Ledio Durmishaj – AI Engineer & Systems Developer
 
-**Software Engineer | C/C++ Expert | Full Stack Developer**
-
-I'm a software engineer with a strong foundation in **systems programming** and **C/C++**, currently expanding into full-stack development and AI Engineering. I believe in writing efficient, maintainable code and understanding how things work at a fundamental level.
-
-I strive to build robust applications that solve real problems, whether that's optimizing algorithms, designing scalable systems, or creating responsive user interfaces. I'm passionate about continuous learning and love exploring new technologies while mastering the fundamentals that matter.
+**Wolfsburg, Germany | [LinkedIn](https://linkedin.com/in/ledio-durmishaj-ai)
 
 ---
 
-## 🚀 What I'm Currently Doing
+## 🎯 What I Build
 
-- 🔭 Working on **AI Engineering**, **Machine Learning Engineer** and **full-stack web applications**
-- 🌱 Learning **Python, JavaScript/NodeJS**, and modern web frameworks
-- 👯 Open to collaborating on **AI Engineer**, **Back End** and **full-stack applications**
-- 💬 Ask me about **C/C++**, **systems programming**, and **algorithm optimization**
-- 🛠️ Optimizing my **Neovim** development environment
+I engineer **production-grade AI systems and high-performance backend solutions** that solve real-world problems. My work spans:
 
----
+- **🤖 AI/ML Systems**: LLM integration, RAG pipelines, prompt optimization, deploying intelligent systems at scale
+- **⚙️ Systems Engineering**: C/C++ performance optimization, Unix/Linux fundamentals, memory management
+- **🚀 Full-Stack Development**: Python/FastAPI backends, scalable databases (PostgreSQL, Neo4j), RESTful APIs
 
-## 💼 Skills & Technologies
-
-**Core Languages:** C, C++, Python, JavaScript/NodeJS, Bash, Lua
-
-**Web Technologies:** HTML5, CSS3, TailwindCSS, Flask
-
-**DevOps & Cloud:** Docker, Linux
-
-**Tools & Development:** Neovim, Git, CMake, GCC, SQLite
----
+Currently: **42 Wolfsburg** (Software Engineering bootcamp) + **MasterSchool AI Engineering**
 
 ---
 
-## 🔗 Connect With Me
+## 💻 Technical Skills
 
-I'm always open to interesting conversations and collaboration opportunities.
-
-- 📧 **Email:** [lediodurmishaj16@gmail.com](mailto:lediodurmishaj16@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ledio-durmishaj-4586ab308](https://www.linkedin.com/in/ledio-durmishaj-4586ab308)
-- 🌐 **Portfolio:** [miami05.github.io](https://miami05.github.io) *(coming soon)*
-- 💻 **GitHub:** [@Miami05](https://github.com/miami05)
+**Languages**: Python, C/C++, JavaScript/TypeScript, Go, Bash, SQL  
+**AI/ML**: LLM Integration, RAG, Prompt Engineering, OpenAI/Gemini/Claude APIs, NLP  
+**Frameworks**: FastAPI, Flask, Fastify, Docker  
+**Databases**: PostgreSQL, Neo4j (Graph DB), SQLite  
+**Systems**: Linux/Unix, Git, Neovim, CI/CD, Memory Management & Pointers  
+**Core**: Data Structures, Algorithms, Multithreading, REST APIs, SOLID Principles
 
 ---
 
-*"First, solve the problem. Then, write the code." - John Johnson*
+## 🎯 Current Focus
+
+- 🚀 **Seeking**: AI Engineer internships, backend optimization roles
+- 🌍 **Building**: Travel optimization systems with graph databases
+- 📖 **Learning**: Microservices architecture, Go, production ML systems
+
+---
+
+## 🤝 Let's Connect
+
+💬 Open to collaborating on AI systems, backend optimization, and scalable infrastructure projects.
+
+📧 **Email**: lediodurmishaj16@gmail.com | **Phone**: +49 176 20681645 | **Work Permit**: Available for Germany
