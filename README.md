@@ -39,4 +39,4 @@ Currently: **42 Wolfsburg** (Software Engineering bootcamp) + **MasterSchool AI 
 
 💬 Open to collaborating on AI systems, backend optimization, and scalable infrastructure projects.
 
-📧 **Email**: lediodurmishaj16@gmail.com | **Phone**: +49 176 20681645 | **Work Permit**: Available for Germany
+📧 **Email**: lediodurmishaj16@gmail.com | **Work Permit**: Available for Germany
