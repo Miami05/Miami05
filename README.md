@@ -1,4 +1,4 @@
-# 👋 Ledio Durmishaj – AI Engineer & Systems Developer
+# 👋 Ledio Durmishaj – AI Engineer
 
 **Wolfsburg, Germany** | [LinkedIn](https://linkedin.com/in/ledio-durmishaj-ai)
 
