@@ -1,6 +1,6 @@
 # 👋 Ledio Durmishaj – AI Engineer
 
-**Wolfsburg, Germany** | [LinkedIn](https://linkedin.com/in/ledio-durmishaj-ai)
+**Stuttgart, Germany** | [LinkedIn](https://linkedin.com/in/ledio-durmishaj-ai)
 
 ---
 
