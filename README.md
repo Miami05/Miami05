@@ -12,11 +12,10 @@ Currently advancing through **42 Wolfsburg** (systems programming bootcamp) and 
 ## 🚀 Currently Building
 
 - **Travel Optimization System** ✈️: Multi-country routing with AI + Neo4j (in development)  
-- **Code Intelligence Platform** 💻: GitHub repo analyzer with semantic search + interactive knowledge graphs (MVP)
 - **Simplified Knowledge Graph** 📊: Interactive visualization of code dependencies and function relationships (MVP)
 
 
-## 🏆 What I Build
+## 🏆 What I Built
 
 I engineer **production-grade AI systems and high-performance backend solutions** that solve real-world problems. My work spans:
 
